@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExApp001</string>
+    <string name="splash">splash</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="noper">No.Peserta</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="datasis">Data Siswa</string>
+    <string name="refresh">Refresh</string>
+    <string name="mapel">Mata Pelajaran</string>
+    <string name="topbottom">topbottom</string>
+    <string name="thanks">THANK YOU</string>
+    <string name="gl">Good Luck</string>
+</resources>
